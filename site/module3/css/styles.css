@@ -9,7 +9,7 @@ body {
 #header-nav {
   border-style: none;
   border-radius: 0;
-  background-color: #222222;
+  background-color: pink;
   text-align: center;
 }
 
@@ -28,7 +28,7 @@ body {
 
 .navbar-brand a, #nav-list a {
   text-decoration: none;
-  color: white;
+  color: red;
 }
 
 .navbar-brand a:hover,
